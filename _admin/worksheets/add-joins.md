@@ -14,7 +14,7 @@ Joining a worksheet to a table or view creates a relationship that allows them t
 
 See this matrix for information about which joins you can create, and what permissions these joins require.
 
-{% include content/joins-matrix.md %}
+{% include content/joins-definition-list.md %}
 
 {% include note.html content="Defining a generic relationship in the UI rather than using a primary key/ foreign key join through TQL has no impact on performance. However, when creating relationships in the UI, you must ensure that you create it in the right direction: many to one. To create many-to-many joins, or to create joins using >, <, >=, or <=, use TQL." %}
 
