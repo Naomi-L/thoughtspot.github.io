@@ -1,8 +1,0 @@
-<h2>Possible Joins</h2>
-<dl>
-<dl-entry id= "join-worksheet">
-<dt>Origin: Worksheet</dt>
-<dd>Destination: Tables uploaded through the UI</dd>
-<dd>Necessary permissions: <strong>Can edit</strong>permission on source Worksheet</dd>
-</dlentry>
-</dl>
