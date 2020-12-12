@@ -534,7 +534,7 @@ REFERENCES "teams" ("lgID" ,"teamID");</code></p>
 
 ### Permitted joins and necessary permissions
 
-See this matrix for information about which joins you can create, and what permissions these joins require.
+See this list for information about which joins you can create, and what permissions these joins require.
 
 {% include content/joins-definition-list.md %}
 
