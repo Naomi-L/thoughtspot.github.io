@@ -1,7 +1,7 @@
 ---
 title: [TQL reference]
 summary: Learn the TQL commands.
-last_updated: 2/25/2020
+last_updated: 12/11/2020
 sidebar: mydoc_sidebar
 permalink: /:collection/:path.html
 ---
@@ -536,7 +536,7 @@ REFERENCES "teams" ("lgID" ,"teamID");</code></p>
 
 See this matrix for information about which joins you can create, and what permissions these joins require.
 
-{% include content/joins-matrix.md %}
+{% include content/joins-definition-list.md %}
 
 ## Data types
 
