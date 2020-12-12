@@ -1,7 +1,7 @@
 ---
 title: [Constraints]
 
-last_updated: 7/13/2020
+last_updated: 12/11/2020
 summary: "Constraints allow you to build relationships and join tables."
 sidebar: mydoc_sidebar
 permalink: /:collection/:path.html
@@ -24,7 +24,7 @@ Note that ThoughtSpot does not check for primary key violations across different
 ## Permitted joins and necessary permissions
 See this matrix for information about which joins you can create, and what permissions these joins require.
 
-{% include content/joins-matrix.md %}
+{% include content/joins-definition-list.md %}
 
 ## Foreign key relationships
 
