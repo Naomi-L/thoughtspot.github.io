@@ -19,7 +19,7 @@ To modify the join types within a worksheet, follow these steps:
 
 1. Click the **Data** tab in the top menu.  
 
-2. Under **Data Objects, select **Worksheets**.
+2. Under **Data Objects**, select **Worksheets**.
 
 3. Click the name of the Worksheet. Here, we selected the worksheet _West Regional Sales_.
 
