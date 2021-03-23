@@ -10,6 +10,8 @@ ThoughtSpot 7 Cloud March version (ts7.mar.cl)  is now available.
 
 These release notes include information about new and enhanced features.
 
+To see what's new in Free Trial, read <a href="{{ site.baseurl }}release/free-trial.html">Free Trial Release Notes</a>.
+
 {: id="new"}
 ## New Features and Functionality
 

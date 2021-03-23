@@ -26,6 +26,9 @@ entries:
     - title: Release notes
       url:  /release/notes.html
       output: web
+    - title: Free Trial Release notes
+      url:  /release/free-trial.html
+      output: web
   - sectiontitle: Getting started
     output: web,ugBk
     sectionitems:
