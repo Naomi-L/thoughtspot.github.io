@@ -36,7 +36,7 @@ To generate a Worksheet through the Setup tab, follow these steps:
 
 3. The first fact table alphabetically will be selected by default. Choose the fact table from which you would like to create your Worksheet by selecting the box to the left of its name.
 
-{% include note.html content="After the Worksheet is created, you will have the option to add more fact tables to its schema."%}
+   {% include note.html content="After the Worksheet is created, you will have the option to add more fact tables to its schema."%}
 
 4. Click *Next* in the upper right corner. A list of the available dimension tables from your connection appears.
 
@@ -44,7 +44,7 @@ To generate a Worksheet through the Setup tab, follow these steps:
 
 6. The joins interface appears, showing a join based on a column of data both tables contain. You can proceed with the suggested join, or click the column names to change the join.
 
-{% include note.html content="The default join type is Inner, which will yield all search results with matching values from the fact table and the dimension table. You can click the Venn diagram icon to change the join type."%}
+   {% include note.html content="The default join type is Inner, which will yield all search results with matching values from the fact table and the dimension table. You can click the Venn diagram icon to change the join type."%}
 
 7. Click *Next*. The columns view of your Worksheet appears. You may notice that the column names have been changed to make them more easily searchable (for example, underscores may be replaced with spaces).
 
@@ -56,4 +56,4 @@ To generate a Worksheet through the Setup tab, follow these steps:
 
 11. Click *Save worksheet*. Your Worksheet is now available to search and share.
 
-{% include note.html content="Joins created in the setup of a Worksheet are inherited at the table level. To remake your auto-generated Worksheet through the Setup tab, you must first delete the Worksheet, then delete the joins at the table level."%}
+   {% include note.html content="Joins created in the setup of a Worksheet are inherited at the table level. To remake your auto-generated Worksheet through the Setup tab, you must first delete the Worksheet, then delete the joins at the table level."%}
