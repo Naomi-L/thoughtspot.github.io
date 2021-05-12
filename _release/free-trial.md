@@ -6,12 +6,11 @@ sidebar: mydoc_sidebar
 toc: false
 permalink: /:collection/:path.html
 ---
-## May 12, 2021 
+## May 12, 2021
 
 These are the changes we made to Free Trial.
 
 * We fixed the username/password error message when users create a Snowflake connection. Previously, users who entered an incorrect username or password would see a Snowflake IP whitelisting error message. <br>
-
 ![]({{ site.baseurl }}/images/free-trial-username-error.png "Error message for incorrect user name"){: .inline}
 
 * We removed the prompt to **Search now** after users create a connection. Now, users can return directly to Setup to continue setting up their Free Trial account.<br>
