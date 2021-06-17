@@ -78,5 +78,5 @@ changes** button at the top of the page. Click this button to make your changes 
 
 ## Related information
 
-* [Download a Pinboard as PDF]({{ site.baseurl }}/end-user/pinboards/download-pinboard-url.html)
+* [Download a Pinboard as PDF]({{ site.baseurl }}/end-user/pinboards/download-pinboard-pdf.html)
 * [Present a Pinboard]({{ site.baseurl }}/end-user/pinboards/start-a-slideshow.html)
