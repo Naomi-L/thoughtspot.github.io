@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 permalink: /:collection/:path.html
 ---
 ThoughtSpot caches data as relational tables in memory. You can
-source tables from different data sources and joined them together. ThoughtSpot has several approaches for getting data into the cluster.
+source tables from different data sources and join them together. ThoughtSpot has several approaches for getting data into the cluster.
 
 ![]({{ site.baseurl }}/images/data-caching-architecture.png)
 
@@ -27,7 +27,7 @@ Embrace supports the following external databases:
 </ul>
 
 ## ThoughtSpot DataFlow ##
-[DataFlow]({{ site.baseurl }}/data-integrate/dataflow/dataflow.html) is a capability in ThoughtSpot through which users can easily ingest data into ThoughtSpot from dozens of the most common databases, data warehouses, file sources, and applications. If your company maintains large sources of data externally, you can use DataFlow to easily ingest the relevant information, and use ThoughtSpot’s analysis and visualization features. And after you configure the scheduled refresh, your analysis visuals are always up to date. DataFlow supports a large number of [databases]({{ site.baseurl }}/data-integrate/dataflow/dataflow-databases.html), [applications]({{ site.baseurl }}/data-integrate/dataflow/dataflow-applications.html), and [file systems]({{ site.baseurl }}/data-integrate/dataflow/dataflow-filesystems.html).
+[DataFlow]({{ site.baseurl }}/data-integrate/dataflow/dataflow.html) is a capability in ThoughtSpot through which users can easily ingest data into ThoughtSpot from dozens of the most common databases, data warehouses, file sources, and applications. If your company maintains large sources of data externally, you can use DataFlow to easily ingest the relevant information, and use ThoughtSpot’s analysis and visualization features. After you configure the scheduled refresh, your analysis visuals are always up to date. DataFlow supports a large number of [databases]({{ site.baseurl }}/data-integrate/dataflow/dataflow-databases.html), [applications]({{ site.baseurl }}/data-integrate/dataflow/dataflow-applications.html), and [file systems]({{ site.baseurl }}/data-integrate/dataflow/dataflow-filesystems.html).
 
 DataFlow is recommended for large amounts of data, and for scheduled refresh. Many times the source data could have many years of data and it becomes infeasible to load all that data on a daily basis. Through DataFlow you can specify the filter conditions to get only the latest data.
 
